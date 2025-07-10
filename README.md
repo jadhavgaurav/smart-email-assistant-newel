@@ -17,7 +17,7 @@ An end-to-end AI-powered assistant that classifies incoming emails, generates au
 
 ```markdown
 ## 🧠 Agentic Workflow
-```
+
 ```mermaid
 graph TD
     A[Incoming Email] --> B[Email Classifier (ML)]
