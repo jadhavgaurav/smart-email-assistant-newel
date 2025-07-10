@@ -18,7 +18,7 @@ An end-to-end AI-powered assistant that classifies incoming emails, generates au
 
 ## 🧠 Agentic Workflow
 
-<img src="data/agent_workflow.png" alt="Agentic Workflow" width="500" height="600"/>
+<img src="data/agent_workflow.png" alt="Agentic Workflow" width="600" height="600"/>
 ---
 
 ## 📦 Folder Structure
