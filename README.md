@@ -18,12 +18,7 @@ An end-to-end AI-powered assistant that classifies incoming emails, generates au
 
 ## 🧠 Agentic Workflow
 
-![Agentic Workflow](data/workflow.png)
-<!--
-For editable source, see the Mermaid diagram below.
-Note: GitHub does not render Mermaid diagrams natively.
--->
-
+![Agentic Workflow](data/agent_workflow.png)
 ---
 
 ## 📦 Folder Structure
