@@ -1,0 +1,12 @@
+__pycache__/
+logs/
+.history
+*.pyc
+*.pkl
+.env
+README.md
+*.ipynb_checkpoints
+classifier_test.py
+llm_response_test.py
+test_crewai_response.py
+notebooks

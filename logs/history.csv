@@ -1,0 +1,96 @@
+timestamp,email_text,category,confidence,action,response,escalation_message
+2025-07-10T13:44:51.932183,"Hi, I want to apply for leave next Thursday and Friday for personal reasons. Let me know the process.",HR,0.64,Responded,"Subject: Re: Leave Request - Next Thursday and Friday
+
+Dear [Name],
+
+Thank you for reaching out to us regarding your request for leave on next Thursday and Friday. We appreciate your advance notice, which will enable us to review and process your request accordingly.
+
+To proceed with your leave application, please submit a formal leave request through our HR portal (link: [insert link]) or forward the necessary information to me at [your email address]. The required details include:
+
+* Your name
+* Dates of leave (next Thursday and Friday)
+* Reason for leave (personal reasons)
+
+Once we receive your completed leave request, it will be reviewed by our management team. We will notify you of the outcome via email as soon as possible.
+
+If you have any questions or concerns, please do not hesitate to reach out to me. We appreciate your cooperation in this matter and look forward to processing your leave application.
+
+Best regards,
+
+[Your Name]
+HR Assistant",
+2025-07-10T13:45:55.420802,"I would like to inquire about the possibility of updating the delivery address for my order after it has been placed. Is this feasible?
+",Other,0.79,Escalated,,Email has been escalated for manual review.
+2025-07-10T13:46:35.980515,"Good evening I'm travelling with my baby/child, can I carry a stroller/pushchair/buggy
+",IT,0.39,Escalated,,Email has been escalated for manual review.
+2025-07-10T13:49:14.670858,"Good evening I'm travelling with my baby/child, can I carry a stroller/pushchair/buggy
+",IT,0.39,Escalated,,Email has been escalated for manual review.
+2025-07-10T13:49:33.336532,"""I am reaching out to inquire about the terminals from which flydubai flights operate at Dubai International Airport. Could you please provide information on the specific terminals flydubai flights typically depart from at Dubai Airport? I am planning a trip and want to ensure I have accurate details for a smooth travel experience.
+Thank you""
+",Other,0.78,Escalated,,Email has been escalated for manual review.
+2025-07-10T13:50:43.992267,"Hi IT Team, We have encountered a critical data loss situation and require immediate assistance with data backup and recovery. Please advise on the necessary steps to mitigate the loss. Appreciate your urgent support.
+",IT,0.65,Responded,"**Urgent Response**
+
+Thank you for reaching out to us regarding the critical data loss situation. I'm sorry to hear that you're experiencing this issue.
+
+To assist you in mitigating the loss, please follow these immediate steps:
+
+1. **Verify Data Loss**: Confirm the extent of the data loss by checking your backup systems, storage devices, and any other possible locations where data may have been stored.
+2. **Power Off Devices (if necessary)**: If the affected device(s) are still on, power them off immediately to prevent further data corruption or overwrite.
+3. **Recover from Backup**: Check if you have a recent backup of the affected data. If yes, please follow our standard backup recovery procedure to restore the data from the most recent available backup.
+4. **Use Data Recovery Software (if applicable)**: If you don't have a recent backup, we may be able to use specialized data recovery software to attempt to recover the lost data. Please provide more details about the affected device(s), file system, and data type (e.g., documents, images, etc.) to help us determine the best approach.
+5. **Contact Our Support Team**: A dedicated IT support specialist will be assigned to assist you in resolving this issue. We will work closely with your team to ensure a successful recovery.
+
+**Additional Information Required**
+
+To better understand the situation and provide effective assistance, please provide the following details:
+
+* Device(s) affected (computer, server, storage device, etc.)
+* File system used (e.g., NTFS, HFS+, ext4, etc.)
+* Data type (e.g., documents, images, databases, etc.)
+* Approximate time of data loss
+* Any error messages or symptoms observed
+
+We will respond promptly with further guidance and support to ensure a successful recovery. Please feel free to contact us if you have any questions or concerns.
+
+**Priority Level**: High - We understand the urgency of this situation and will provide dedicated support to minimize downtime and data loss.
+
+Thank you for your prompt notification, and we look forward to assisting you in resolving this critical issue.",
+2025-07-10T13:51:57.107391,"""Dear SEC,
+
+I hope this message finds you well. I am reaching out on behalf of SMASCO to propose a collaborative partnership that can significantly enhance your company's access to top-tier talent and streamline your employment services.
+
+At SMASCO, we specialize in providing comprehensive manpower solutions that cater to a diverse range of industries and organizational needs. We are enthusiastic about the possibility of extending our services to your esteemed company, leveraging our expertise to fulfill your workforce requirements effectively.
+
+Our proposed collaboration includes the following key services:
+
+1. Tailored Staffing Solutions: We offer customized recruitment services, providing skilled, pre-screened candidates suitable for your specific job requirements.
+2. Temporary and Permanent Staffing: Whether your company needs temporary or permanent staff, we can provide qualified individuals to fill those roles efficiently.
+3. Recruitment Process Outsourcing (RPO): Our RPO services assist in managing your recruitment process, saving time and resources.
+4. HR Consultation: We offer consultations to optimize HR strategies and procedures, ensuring a streamlined approach to talent acquisition and management.
+
+We would welcome the opportunity to discuss the potential collaboration further. Please let us know a convenient time for a meeting or call to explore this partnership.
+
+Thank you for considering this proposal. We look forward to the prospect of working together to meet your employment service needs.
+
+Regards,
+
+Abdulrahman Mohammed
+00971529282910""
+",HR,0.88,Responded,"Subject: Re: Partnership Proposal from SMASCO
+
+Dear Abdulrahman,
+
+Thank you for reaching out to us with a proposal for a collaborative partnership between SMASCO and SEC. We appreciate your enthusiasm about the possibility of working together to enhance our access to top-tier talent and streamline our employment services.
+
+We are interested in learning more about how SMASCO's comprehensive manpower solutions can meet our organizational needs. Your proposed key services, including tailored staffing solutions, temporary and permanent staffing, recruitment process outsourcing (RPO), and HR consultation, align with our current priorities and goals.
+
+I would be happy to schedule a meeting or call to discuss the details of your proposal further. Could you please suggest some dates and times that work for you? Additionally, could you provide more information on how SMASCO's services have benefited other clients in the past?
+
+We are looking forward to exploring this partnership opportunity and discussing how we can work together to meet our employment service needs.
+
+Best regards,
+
+[Your Name]
+HR Assistant
+SEC",

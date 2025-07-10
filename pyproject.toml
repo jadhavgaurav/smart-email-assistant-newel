@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "smart-email-assistant"
+version = "0.1.0"
+description = "Smart Email Assistant using ML, GenAI, and Agents"
+authors = ["Gaurav Vijay Jadhav <gaurav.vjadhav01@gmail.com>"]
+readme = "README.md"
+packages = [{ include = "app" }]
+# Note: `python` must go under [tool.poetry.dependencies] as a version constraint
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+streamlit = ">=1.46.1,<2.0.0"
+scikit-learn = ">=1.7.0,<2.0.0"
+pandas = ">=2.3.1,<3.0.0"
+numpy = ">=2.3.1,<3.0.0"
+joblib = ">=1.5.1,<2.0.0"
+requests = ">=2.32.4,<3.0.0"
+langchain-ollama = ">=0.3.4,<0.4.0"
+boto3 = ">=1.39.4,<2.0.0"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.1.1"
+notebook = "^7.4.4"
+matplotlib = "^3.10.3"
+seaborn = "^0.13.2"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
