@@ -15,18 +15,15 @@ An end-to-end AI-powered assistant that classifies incoming emails, generates au
 
 ---
 
-```markdown
+
 ## 🧠 Agentic Workflow
 
-```mermaid
-graph TD
-    A[Incoming Email] --> B[Email Classifier (ML)]
-    B --> C{Confidence >= 0.6 and Category ≠ Other?}
-    C -->|Yes| D[LLM Response Generator]
-    C -->|No| E[Escalation Agent]
-    D --> F[Return Response]
-    E --> F
-```
+![Agentic Workflow](data/workflow.png)
+<!--
+For editable source, see the Mermaid diagram below.
+Note: GitHub does not render Mermaid diagrams natively.
+-->
+
 ---
 
 ## 📦 Folder Structure
