@@ -70,6 +70,17 @@ smart-email-assistant/
   - HR: "You are an HR assistant. Reply professionally..."
   - IT: "You are an IT assistant. Help with this issue..."
 
+### Start Ollama (Local LLM Server)
+
+Before running the Docker container, ensure you have Ollama running on the host machine:
+
+```bash
+ollama serve
+ollama run llama3:8b-instruct-q4_K_M
+```
+
+> This loads the LLaMA3 model and exposes it at `http://localhost:11434`
+
 ---
 
 ## 🌐 Streamlit UI
