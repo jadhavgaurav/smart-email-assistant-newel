@@ -27,10 +27,10 @@ class OllamaResponderAgent:
     def generate_response(self, email_text: str, category: str = "Other") -> dict:
         try:
             prompt = self._generate_prompt(email_text, category)
-            print("\n📥 Sending to Ollama:")
-            print(prompt)
+            # print("\n📥 Sending to Ollama:")
+            # print(prompt)
 
-            # Call LLM directly (NOT via CrewAI)
+            # Call LLM directly 
             result = self.llm.invoke(prompt)
 
             return {
